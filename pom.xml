@@ -25,7 +25,7 @@
    <configuration>
   	 <url>http://localhost:8088/manager/text</url>
   	 <server>TomcatServer</server>
-  	 <path>/WebApps</path>
+  	 <path>/PreWebApps</path>
    </configuration>
 </plugin>
 </plugins>
