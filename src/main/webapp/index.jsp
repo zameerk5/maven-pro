@@ -1,7 +1,6 @@
 <html>
 <body>
-<h2>Hello Second floor!</h2>
-<h3>changes in git using version control</h3>
+<h2>Hello this is from Dev</h2>
 </body>
 </html>
 
